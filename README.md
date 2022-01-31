@@ -4,7 +4,7 @@
 
 ```javascript
 printf(
-          👋Name: 鹏~
+          👋Name: 芃~
           📫Email: 421054868@qq.com
           💎QQ: 421054868
           ✈️Wechat: zp421054868
