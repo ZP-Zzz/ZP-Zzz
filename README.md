@@ -14,7 +14,7 @@
 ```javascript
 printf(
           👋Name: Monster~
-          📫Email: 421054868@qq.com
+          📫Email: 421054868@qq.com  or  monster421054@gmail.com
           💎bilibili: https://space.bilibili.com/44471237
           📫Discord:MonsterGunner#8272 
           🎳Hobby: Computer programming and Looking for bugs  
