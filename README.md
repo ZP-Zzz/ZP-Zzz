@@ -16,7 +16,7 @@ printf(
           👋Name: Monster~
           📫Email: 421054868@qq.com
           💎bilibili: https://space.bilibili.com/44471237
-          📫Discord:MonsterGunner#8272 (but,it is not often used)
+          📫Discord:MonsterGunner#8272 
           🎳Hobby: Computer programming and Looking for bugs  
           ......
       );
