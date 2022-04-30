@@ -15,9 +15,9 @@
 printf(
           👋Name: Monster~
           📫Email: 421054868@qq.com
-          💎bilibili: https://space.bilibili.com/44471237/channel/series
-          🎳Hobby: Computer programming and Looking for bugs     
-          📫CSDN: https://blog.csdn.net/ZIIllIIll
+          💎bilibili: https://space.bilibili.com/44471237
+          📫Discord:MonsterGunner#8272 (but,it is not often used)
+          🎳Hobby: Computer programming and Looking for bugs  
           ......
       );
 ```
