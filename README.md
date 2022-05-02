@@ -15,7 +15,7 @@
 printf(
           👋Name: Monster~
           📫Discord:MonsterGunner#8272 
-          📫Email: 421054868@qq.com  or  monster421054@gmail.com
+          📫Email:monster421054@gmail.com
           💎bilibili: https://space.bilibili.com/44471237    
           🎳Hobby: Computer programming and Looking for bugs  
           ......
