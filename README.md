@@ -9,7 +9,7 @@
 
 :sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny:
 
-#### Hacker(I come from China. If I don't return your message, I may be sleeping)
+#### Hacker(I'm from China, maybe I'm sleeping if I don't reply to your message in time)
 
 ```javascript
 printf(
