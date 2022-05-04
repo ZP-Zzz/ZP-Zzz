@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ZZZ-Monster&color=yellowgreen)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZZZ-Monster&show_icons=true&icon_color=fff&bg_color=35,e96443,904e95&title_color=fff&text_color=fff)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZZ-Monster&layout=compact&theme=buefy&title_color=009)](https://github.com/ZZZ-Monster)
+![ZZZ-Monster's github stats](https://github-readme-stats.vercel.app/api?username=ZZZ-Monster&show_icons=true&icon_color=fff&bg_color=45,e96443,904e95&title_color=fff&text_color=fff)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZZ-Monster&layout=compact&theme=buefy&title_color=015)](https://github.com/ZZZ-Monster)
 
 
 
