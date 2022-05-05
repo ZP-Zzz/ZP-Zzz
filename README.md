@@ -16,10 +16,12 @@
 
 :earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia:
 
-[![ZZZ-Monster's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZZZ-Monster&theme=react-dark)](https://github.com/ZZZ-Monster)
-<br>
+
 
 ![ZZZ-Monster's github stats](https://github-readme-stats.vercel.app/api?username=ZZZ-Monster&show_icons=true&icon_color=fff&bg_color=45,e96443,904e95&title_color=fff&text_color=fff)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZZ-Monster&layout=compact&theme=buefy&title_color=015)](https://github.com/ZZZ-Monster)
+
+[![ZZZ-Monster's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZZZ-Monster&theme=react-dark)](https://github.com/ZZZ-Monster)
+<br>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
