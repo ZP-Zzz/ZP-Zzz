@@ -23,7 +23,7 @@
 [![ZZZ-Monster's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZZZ-Monster&theme=react-dark)](https://github.com/ZZZ-Monster)
 <br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://github.com/ZZZ-Monster/ZZZ-Monster/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
 
