@@ -12,6 +12,7 @@
 - <img alt="GIF" src="https://github.com/ZZZ-Monster/ZZZ-Monster/blob/main/Assets/hmm.gif" width="20vw" /> bilibili: **https://space.bilibili.com/44471237** 
 - <img alt="GIF" src="https://github.com/ZZZ-Monster/ZZZ-Monster/blob/main/Assets/happy.gif" width="20vw" /> Hobby: **Computer programming and Looking for bugs** 
 - <img alt="GIF" src="https://github.com/ZZZ-Monster/ZZZ-Monster/blob/main/Assets/powerup.gif" width="20vw" /> Remind: **Documents with passwords are privately owned**
+- <img alt="GIF" src="https://github.com/ZZZ-Monster/ZZZ-Monster/blob/main/Assets/Earth.gif" width="20vw" /> Remind: **Resources come from the network, neither the author nor the duck are liable for any incorrect information in this article.**
 
 
 :earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia::earth_asia:
