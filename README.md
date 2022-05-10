@@ -4,7 +4,7 @@
 
 :sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny:
 
-### Hacker [*Buy me a coffee*](https://github.com/ZZZ-Monster/ZZZ-Monster/blob/main/Assets/11.png) [*打赏*](https://github.com/ZZZ-Monster/ZZZ-Monster/blob/main/Assets/11.png)
+### Hacker [*Buy me a coffee*](https://www.buymeacoffee.com/421054868t) [*打赏*](https://github.com/ZZZ-Monster/ZZZ-Monster/blob/main/Assets/11.png)
 
 
 - <img alt="GIF" src="https://github.com/ZZZ-Monster/ZZZ-Monster/blob/main/Assets/wave.gif" width="20vw" /> Name: **Monster~**
