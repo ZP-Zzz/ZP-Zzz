@@ -4,7 +4,7 @@
 
 :sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny:
 
-### Hacker [*Buy me a coffee*](https://www.buymeacoffee.com/421054868t) [*打赏*](https://github.com/ZZZ-Monster/ZZZ-Monster/blob/main/Assets/11.png)
+### Hacker 
 
 
 -  Name: **Monster~**
