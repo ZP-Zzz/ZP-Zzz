@@ -9,8 +9,6 @@
 
 -  Name: **Monster~**
 -  Discord: **MonsterGunner#8272**
--  Email: **monster421054@gmail.com**
--  bilibili: **https://space.bilibili.com/44471237** 
 -  Hobby: **Computer programming and Looking for bugs** 
 -  Remind: **Documents with passwords are privately owned**
 -  Remind: **Resources come from the network, neither the author nor the duck are liable for any incorrect information in this github.**
